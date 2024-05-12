@@ -5,25 +5,25 @@ This project aims to introduce students to Flutter and Back4App by building a ba
 # Features:
 
 1. User Authentication:
-    - [x] Implement basic user authentication using Back4App. 
-    - [x] Allow users to sign up and log in to the app securely.
+    -  Implement basic user authentication using Back4App. ✅
+    - Allow users to sign up and log in to the app securely.✅
 
 2. Task Management:
-    - [x] Users can add, view, and delete tasks. 
-    - [x] Each task should have a title and a due date. 
+    - Users can add, view, and delete tasks. ✅
+    - Each task should have a title and a due date. ✅
 
 3. Task Status:
-    - [x] Tasks can be marked as completed or incomplete. 
-    - [x] Provide an option to toggle the status of tasks. 
+    - Tasks can be marked as completed or incomplete. ✅
+    - Provide an option to toggle the status of tasks. ✅
 
 # Additional Features :
 
-- [x] Edit Task: Allow users to edit task details such as the title and due date. 
-- [x] Simple UI Enhancements: Add basic styling and layout improvements to enhance the user experience. 
-- [x] Error Handling: Implement basic error handling for authentication and data management. 
+- Edit Task: Allow users to edit task details such as the title and due date. ✅
+- Simple UI Enhancements: Add basic styling and layout improvements to enhance the user experience. ✅
+- Error Handling: Implement basic error handling for authentication and data management. ✅
 
 # Project Structure:
 
-- [x] Frontend: Develop the app's frontend using Flutter with a simple and minimalistic user interface. 
-- [x] Backend: Set up the backend using Back4App to handle user authentication and data storage. 
-- [x] Integration: Connect the frontend and backend to enable basic CRUD operations for tasks. 
+- Frontend: Develop the app's frontend using Flutter with a simple and minimalistic user interface. ✅
+- Backend: Set up the backend using Back4App to handle user authentication and data storage. ✅
+- Integration: Connect the frontend and backend to enable basic CRUD operations for tasks. ✅
